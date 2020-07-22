@@ -1,0 +1,14 @@
+{
+	"name": "TOPPERS/箱庭 EV3RT Devkit",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "ev3rt",
+	"workspaceFolder": "/ev3rt-athrill-v850e2m/sdk/workspace/app",
+	
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+
+	"extensions": [
+		"ms-azuretools.vscode-docker"
+	],
+}
